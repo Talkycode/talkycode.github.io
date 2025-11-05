@@ -12,6 +12,11 @@ body {
   background: var(--light-color);
 }
 
+span {
+  font-size : 10px;
+  font-wigth: bold
+}
+
 .container {
   width: 90%;
   max-width: 1100px;
